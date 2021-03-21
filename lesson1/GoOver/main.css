@@ -1,0 +1,9 @@
+
+
+.form__input {
+    outline-color: green;
+}
+
+.form__input.invalid {
+    border-color: red;
+}
